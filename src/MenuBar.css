@@ -1,0 +1,12 @@
+.menugrid {
+  display: grid;
+  grid-template-columns: 70% 15% 15%;;
+}
+
+.logo {
+  margin-left: 20px;
+}
+
+.top {
+  text-align: center;
+}
