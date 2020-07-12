@@ -8,11 +8,17 @@ class Twitter extends Component {
 
       return (
 
-        <div>
+        <div className = 'background'>
+
+        <div className = 'youtubetopgrid'>
 
         <p className = 'twittersize'>
         <i style = {{ color: '#00acee' }} class="twitter square icon"/>
         </p>
+
+        <p className = 'twittertext'>Twitter </p>
+
+        </div>
         </div>
 
 

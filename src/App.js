@@ -20,10 +20,10 @@ class App extends Component {
 
       <div className = 'socialgrid'>
 
-      <div className = 'box'><Twitter /></div>
-      <div className = 'box'><YouTube /></div>
-      <div className = 'box'><Instagram /></div>
-      <div className = 'box'><Google /></div>
+      <div className = 'twitterbox'><Twitter /></div>
+      <div className = 'youtubebox'><YouTube /></div>
+      <div className = 'instagrambox'><Instagram /></div>
+      <div className = 'googlebox'><Google /></div>
 
 
       </div>

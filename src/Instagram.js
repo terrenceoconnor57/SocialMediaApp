@@ -8,11 +8,17 @@ class Instagram extends Component {
 
       return (
 
-        <div>
+        <div className = 'background'>
+
+        <div className = 'instagramtopgrid'>
 
         <p className = 'instagramsize'>
         <i style = {{ color : '#d6249f' }} class="instagram icon" />
         </p>
+
+        <p className = 'instagramtext'>Instagram</p>
+
+        </div>
         </div>
 
 

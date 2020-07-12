@@ -8,11 +8,18 @@ class YouTube extends Component {
 
       return (
 
-        <div>
+        <div className = 'background'>
+
+        <div className = 'youtubetopgrid'>
 
         <p className = 'youtubesize'>
         <i style = {{ color : '#FF0000'}} class="youtube icon"/>
         </p>
+
+        <p className = 'youtubetext'>YouTube</p>
+
+
+        </div>
         </div>
 
 

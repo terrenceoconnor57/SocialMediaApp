@@ -11,6 +11,31 @@
   padding-right: 10px;
 }
 
+
+.twitterbox {
+  background-image: url("twitter.jpg");
+  background-size: cover;
+
+}
+
+.youtubebox {
+  background-image: url("youtube.jpg");
+  background-size: cover;
+
+}
+
+.instagrambox {
+  background-image: url("instagram.jpg");
+  background-size: cover;
+
+}
+
+.googlebox {
+  background-image: url("google.jpg");
+  background-size: cover;
+
+}
+
 .box {
   background: rgba(0,0,0, 0.1);
 }
